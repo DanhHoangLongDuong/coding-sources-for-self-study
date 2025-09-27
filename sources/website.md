@@ -1,0 +1,12 @@
+- Python:
+	- [MOOC python 2025](https://programming-25.mooc.fi/)
+- Java:
+	- [MOOC Java](https://java-programming.mooc.fi/)
+- C:
+	- [Exercism](https://exercism.org/tracks/c/exercises)
+	- [Codewars]([https://www.codewars.com/?language=c](https://www.codewars.com/?language=c))
+- C++:
+	- [learncpp](https://www.learncpp.com/)
+	- [Hackerrank](https://www.hackerrank.com/domains/cpp)
+	- [Exercism](https://exercism.org/tracks/cpp/concepts)
+

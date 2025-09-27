@@ -1,0 +1,10 @@
+- python:
+	- [Bro Code compilation video](https://www.youtube.com/watch?v=ix9cRaBkVe0&pp=ygUHcHl0aG9uIA%3D%3D)
+	- [Bro Code playlist](https://www.youtube.com/watch?v=Sg4GMVMdOPo&list=PLZPZq0r_RZOOkUQbat8LyQii36cJf2SWT)
+- C:
+	- [Bro Code](https://www.youtube.com/watch?v=2ciUcosJFBc&list=PLZPZq0r_RZOOzY_vR4zJM32SqsSInGMwe)
+- C++:
+	- [Bro Code](https://www.youtube.com/watch?v=S3nx34WFXjI&list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on)
+	- [The Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+
+note: A good starting point for beginners, preferably combined with [[website]]
