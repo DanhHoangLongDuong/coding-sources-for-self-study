@@ -3,6 +3,7 @@
 - Java:
 	- [MOOC Java](https://java-programming.mooc.fi/)
 - C:
+	- [learn C](https://www.learn-c.org/)
 	- [Exercism](https://exercism.org/tracks/c/exercises)
 	- [Codewars](https://www.codewars.com/?language=c)
 - C++:
