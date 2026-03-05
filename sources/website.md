@@ -10,4 +10,6 @@
 	- [learncpp](https://www.learncpp.com/)
 	- [Hackerrank](https://www.hackerrank.com/domains/cpp)
 	- [Exercism](https://exercism.org/tracks/cpp/concepts)
-
+- SQL:
+	- [SQLBolt](https://sqlbolt.com/)
+ 	- [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
