@@ -6,5 +6,3 @@
 - C++:
 	- [Bro Code](https://www.youtube.com/watch?v=S3nx34WFXjI&list=PLZPZq0r_RZOMHoXIcxze_lP97j2Ase2on)
 	- [The Cherno](https://www.youtube.com/watch?v=18c3MTX0PK0&list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-
-note: A good starting point for beginners, preferably combined with [[website]]
