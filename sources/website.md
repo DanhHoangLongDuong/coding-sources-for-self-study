@@ -13,3 +13,4 @@
 - SQL:
 	- [SQLBolt](https://sqlbolt.com/)
  	- [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
+  	- [DataLemur](https://datalemur.com/sql-tutorial)  
