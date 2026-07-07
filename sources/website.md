@@ -14,3 +14,5 @@
 	- [SQLBolt](https://sqlbolt.com/)
  	- [SQLZoo](https://sqlzoo.net/wiki/SQL_Tutorial)
   	- [DataLemur](https://datalemur.com/sql-tutorial)  
+- Web Development:
+	- [Odin Project](https://www.theodinproject.com/)
