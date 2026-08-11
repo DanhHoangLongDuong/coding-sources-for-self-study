@@ -16,3 +16,5 @@
   	- [DataLemur](https://datalemur.com/sql-tutorial)  
 - Web Development:
 	- [Odin Project](https://www.theodinproject.com/)
+	- [Scrimba](https://scrimba.com/learn-html-and-css-c0p)
+	- [MOOC full stack Next.js](https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-nextjs)
