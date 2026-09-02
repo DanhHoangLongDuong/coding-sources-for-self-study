@@ -17,4 +17,6 @@
 - Web Development:
 	- [Odin Project](https://www.theodinproject.com/)
 	- [Scrimba](https://scrimba.com/learn-html-and-css-c0p)
+   	- [W3S HTML](https://www.w3schools.com/html/default.asp)
+    - [W3S CSS](https://www.w3schools.com/css/default.asp)
 	- [MOOC full stack Next.js](https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-nextjs)
